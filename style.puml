@@ -239,6 +239,9 @@ skinparam object {
   basic_style()
   font_style()
   arrow_style()
+  
+  attributeFontColor $SECONDARY
+  attributeFontSize $FONTSIZE
 }
 
 ' Common
