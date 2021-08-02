@@ -273,4 +273,6 @@ skinparam storage {
   font_style()
 }
 
+skinparam groupInheritance 4
+
 @enduml
